@@ -1,4 +1,4 @@
-#About quori_osu_suppplemental 
+# About quori_osu_suppplemental 
 
 This package is meant to be installed alongside the quori_osu ROS Noetic package.
 
