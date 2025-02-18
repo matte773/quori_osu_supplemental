@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Hello! What should I call you?",
+      "answer": "Hello! Nice to meet you. You can call me Quori!",
+      "audio_file": "1.mp3",
+      "type": "simple"
+    },
+    {
+      "id": 2,
+      "question": "What is the sum of 2+2?",
+      "answer": "The sum of two plus two is four.",
+      "audio_file": "2.mp3",
+      "type": "simple"
+    },
+    {
+      "id": 3,
+      "question": "What is the capital of Italy?",
+      "answer": "The capital of Italy is Rome.",
+      "audio_file": "3.mp3",
+      "type": "simple"
+    },
+    {
+      "id": 4,
+      "question": "How many minutes are in an hour?",
+      "answer": "There are 60 minutes in an hour.",
+      "audio_file": "4.mp3",
+      "type": "simple"
+    },
+    {
+      "id": 5,
+      "question": "What is the largest ocean on Earth?",
+      "answer": "The largest ocean on Earth is the Pacific Ocean.",
+      "audio_file": "5.mp3",
+      "type": "simple"
+    },
+    {
+      "id": 6,
+      "question": "How many letters are in the alphabet?",
+      "answer": "There are 26 letters in the alphabet.",
+      "audio_file": "6.mp3",
+      "type": "simple"
+    },
+    {
+      "id": 7,
+      "question": "What primary paint colors mix to produce purple paint?",
+      "answer": "Mixing red and blue paint will result in purple paint.",
+      "audio_file": "7.mp3",
+      "type": "simple"
+    },
+    {
+      "id": 8,
+      "question": "How many days are in a week?",
+      "answer": "There are seven days in a week.",
+      "audio_file": "8.mp3",
+      "type": "simple"
+    },
+    {
+      "id": 9,
+      "question": "How old are you?",
+      "answer": "I was built in Fall of 2022.",
+      "audio_file": "9.mp3",
+      "type": "simple"
+    },
+    {
+      "id": 10,
+      "question": "How many sides does a triangle have?",
+      "answer": "A triangle has 3 sides.",
+      "audio_file": "10.mp3",
+      "type": "simple"
+    },
+    {
+      "id": 11,
+      "question": "How do black holes form?",
+      "answer": "Black holes form when massive stars run out of fuel and collapse into a point of intense gravity that traps everything around them.",
+      "audio_file": "11.mp3",
+      "type": "complex"
+    },
+    {
+      "id": 12,
+      "question": "What is a supernova?",
+      "answer": "A supernova is a huge star explosion that releases energy and spreads heavy elements into space.",
+      "audio_file": "12.mp3",
+      "type": "complex"
+    },
+    {
+      "id": 13,
+      "question": "How many prime numbers are between zero and twenty?",
+      "answer": "There are 8 prime numbers between 0 and 20.",
+      "audio_file": "13.mp3",
+      "type": "complex"
+    },
+    {
+      "id": 14,
+      "question": "How many months have 31 days?",
+      "answer": "There are 7 months with 31 days in it.",
+      "audio_file": "14.mp3",
+      "type": "complex"
+    },
+    {
+      "id": 15,
+      "question": "Name two countries that begin with the letter 'E'",
+      "answer": "Egypt and England are two countries that begin with the letter 'E'.",
+      "audio_file": "15.mp3",
+      "type": "complex"
+    },
+    {
+      "id": 16,
+      "question": "What is the sum of the first 5 odd numbers?",
+      "answer": "The sum of the first 5 odd numbers is 25.",
+      "audio_file": "16.mp3",
+      "type": "complex"
+    },
+    {
+      "id": 17,
+      "question": "When is the next leap year?",
+      "answer": "The next leap year is in 2028.",
+      "audio_file": "17.mp3",
+      "type": "complex"
+    },
+    {
+      "id": 18,
+      "question": "How many letters are in the word 'elephant'?",
+      "answer": "There are eight letters in 'elephant'.",
+      "audio_file": "18.mp3",
+      "type": "complex"
+    },
+    {
+      "id": 19,
+      "question": "How many hours are in four days?",
+      "answer": "There are 96 hours in four days.",
+      "audio_file": "19.mp3",
+      "type": "complex"
+    },
+    {
+      "id": 20,
+      "question": "How many 'n's are in the word 'banana'?",
+      "answer": "There are two 'n's in the word banana.",
+      "audio_file": "20.mp3",
+      "type": "complex"
+    }
+  ]
+}
