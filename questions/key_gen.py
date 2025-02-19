@@ -8,7 +8,8 @@ def generate_random_questions(num_files, max_questions, output_dir, current_key_
         os.makedirs(output_dir)
 
     for i in range(num_files):
-        num_questions = random.randint(1, max_questions)
+        # num_questions = random.randint(1, max_questions)
+        num_questions = max_questions
         questions = list(range(1, num_questions + 1))
         random.shuffle(questions)
         
@@ -23,10 +24,10 @@ def generate_random_questions(num_files, max_questions, output_dir, current_key_
         print(f"Questions: {data}")
 
 # Parameters
-num_files = 11  # Number of JSON files to generate
-max_questions = 25  # Maximum number of questions in each file
+num_files = 100  # Number of JSON files to generate
+max_questions = 20  # Maximum number of questions in each file
 output_dir = "."  # Directory to save the JSON files
-current_key_num = 89  # Default starting key number
+current_key_num = 0  # Default starting key number
 
 # Check for command-line argument
 if len(sys.argv) > 1:
