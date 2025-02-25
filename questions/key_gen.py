@@ -12,9 +12,12 @@ def generate_random_questions(num_files, max_questions, output_dir, current_key_
         num_questions = max_questions
         questions = list(range(1, num_questions + 1))
         random.shuffle(questions)
+
+        new_questions = [0]
+        new_questions.extend(questions)
         
         data = {
-            "questions": questions
+            "questions": new_questions
         }
         
         file_path = os.path.join(output_dir, f"key_{current_key_num + i}.json")
