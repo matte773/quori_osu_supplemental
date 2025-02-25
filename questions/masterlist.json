@@ -1,24 +1,23 @@
 {
-  
   "questions": [
     {
       "id": 0,
       "question": "Hello! What should I call you?",
       "answer": "Hello! Nice to meet you. You can call me Quori!",
-      "audio_file": "1.mp3",
+      "audio_file": "0.mp3",
       "type": "demo"
     },
     {
       "id": 1,
-      "question": "DUMMY",
-      "answer": "dummmmmmmmmmmy",
+      "question": "What is the square root of 16?",
+      "answer": "The square root of 16 is 4",
       "audio_file": "1.mp3",
       "type": "simple"
     },
     {
       "id": 2,
-      "question": "What is the sum of 2+2?",
-      "answer": "The sum of two plus two is four.",
+      "question": "What is the sum of 2 and 2?",
+      "answer": "The sum of two and two is four.",
       "audio_file": "2.mp3",
       "type": "simple"
     },
@@ -147,6 +146,76 @@
       "answer": "There are two 'n's in the word banana.",
       "audio_file": "20.mp3",
       "type": "complex"
-    }
+    },
+    {
+      "id": 21,
+      "question": "How many colors are in the rainbow?",
+      "answer": "There are seven colors in a rainbow.",
+      "audio_file": "21.mp3",
+      "type": "complex"
+    },
+    {
+      "id": 22,
+      "question": "How many continents are there?",
+      "answer": "There are 7 continents on Earth.",
+      "audio_file": "22.mp3",
+      "type": "simple"
+    },
+    {
+      "id": 23,
+      "question": "What do you call frozen water?",
+      "answer": "Frozen water is called ice.",
+      "audio_file": "23.mp3",
+      "type": "simple"
+    },
+    {
+      "id": 24,
+      "question": "What is the freezing point of water in Celsius?",
+      "answer": "The freezing point of water in Celsius is 0 degrees.",
+      "audio_file": "24.mp3",
+      "type": "simple"
+    },
+    {
+      "id": 25,
+      "question": "What is the square root of 16?",
+      "answer": "The square root of 16 is 4",
+      "audio_file": "25.mp3",
+      "type": "simple"
+    },
+    {
+      "id": 26,
+      "question": "What is the largest planet in our solar system?",
+      "answer": "The largest planet in our solar system is Jupiter.",
+      "audio_file": "26.mp3",
+      "type": "simple"
+    },
+    {
+      "id": 27,
+      "question": "What is the 10th letter of the alphabet?",
+      "answer": "the 10th letter of the english alphabet is 'J'",
+      "audio_file": "27.mp3",
+      "type": "complex"
+    },
+    {
+      "id": 28,
+      "question": "Why does the ocean appear blue?",
+      "answer": "The ocean appears blue because water absorbs red light and reflects blue light.",
+      "audio_file": "28.mp3",
+      "type": "complex"
+    },
+    {
+      "id": 29,
+      "question": "What is the scientific term for the fear of spiders?",
+      "answer": "The scientific term for a fear of spiders is called Arachnophobia.",
+      "audio_file": "29.mp3",
+      "type": "complex"
+    },
+    {
+      "id": 30,
+      "question": "What is quantum mechanics?",
+      "answer": "Quantum Mechanics is the field of physics that describes how small particles sometimes act as both a wave and a particle.",
+      "audio_file": "30.mp3",
+      "type": "complex"
+    }    
   ]
 }

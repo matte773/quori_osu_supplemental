@@ -2,6 +2,7 @@ import json
 import random
 import os
 import sys
+import roslib.packages
 
 def generate_random_questions(num_files, max_questions, output_dir, current_key_num):
     if not os.path.exists(output_dir):
@@ -28,8 +29,10 @@ def generate_random_questions(num_files, max_questions, output_dir, current_key_
 
 # Parameters
 num_files = 100  # Number of JSON files to generate
-max_questions = 20  # Maximum number of questions in each file
-output_dir = "."  # Directory to save the JSON files
+max_questions = 30  # Maximum number of questions in each file
+# output_dir = "."  # Directory to save the JSON files
+package_base_path = roslib.packages.get_pkg_dir('quori_osu')
+output_dir = os.path.join(package_base_path, "src/quori_osu_supplemental/questions")
 current_key_num = 0  # Default starting key number
 
 # Check for command-line argument
