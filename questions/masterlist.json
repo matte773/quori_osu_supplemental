@@ -177,15 +177,15 @@
     },
     {
       "id": 25,
-      "question": "What is the square root of 16?",
-      "answer": "The square root of 16 is 4",
+      "question": "What is the largest planet in our solar system?",
+      "answer": "The largest planet in our solar system is Jupiter.",
       "audio_file": "25.mp3",
       "type": "simple"
     },
     {
       "id": 26,
-      "question": "What is the largest planet in our solar system?",
-      "answer": "The largest planet in our solar system is Jupiter.",
+      "question": "What color is the sky on a clear day?",
+      "answer": "The sky is blue on a clear day.",
       "audio_file": "26.mp3",
       "type": "simple"
     },
